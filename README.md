@@ -186,10 +186,16 @@ if err != nil {
 
 ## Documentation
 
-Full API documentation is available at [pkg.go.dev](https://pkg.go.dev/github.com/ProxyHatCom/go-sdk?utm_source=github&utm_medium=readme&utm_campaign=sdk-go).
+- [Getting Started](https://docs.proxyhat.com?utm_source=github&utm_medium=readme&utm_campaign=sdk-go&utm_content=getting-started)
+- [API Reference](https://docs.proxyhat.com/api/auth?utm_source=github&utm_medium=readme&utm_campaign=sdk-go&utm_content=api-reference)
+- [Full Documentation](https://docs.proxyhat.com?utm_source=github&utm_medium=readme&utm_campaign=sdk-go&utm_content=docs-home)
 
-For the ProxyHat API reference, visit [proxyhat.com/docs](https://proxyhat.com/docs?utm_source=github&utm_medium=readme&utm_campaign=sdk-go).
+## Links
+
+- [ProxyHat](https://proxyhat.com?utm_source=github&utm_medium=readme&utm_campaign=sdk-go&utm_content=links) — Residential & mobile proxy network
+- [Dashboard](https://dashboard.proxyhat.com?utm_source=github&utm_medium=readme&utm_campaign=sdk-go&utm_content=links) — Manage proxies, sub-users, and API keys
+- [GitHub](https://github.com/ProxyHatCom/go-sdk) — Source code & issue tracker
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](LICENSE) for details.
